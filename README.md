@@ -1,3 +1,6 @@
+# Type
+### Software that doesn't feel like a a tool...just you and your words
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
