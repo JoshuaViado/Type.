@@ -1,6 +1,7 @@
 # Type
 ### Software that doesn't feel like a a tool...just you and your words
 
+![alt text](https://github.com/JoshuaViado/Type./blob/master/Type-Screenshot.PNG)
 
 “Remember, while today's writing software is useful and powerful, don't let a shiny tool distract you.” -  Bryan Collins
 
