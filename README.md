@@ -1,5 +1,4 @@
 # Type
-### Software that doesn't feel like a a tool...just you and your words
 
 ![alt text](https://github.com/JoshuaViado/Type./blob/master/Type-Screenshot.PNG)
 
