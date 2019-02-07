@@ -1,6 +1,9 @@
 # Type
 ### Software that doesn't feel like a a tool...just you and your words
 
+
+“Remember, while today's writing software is useful and powerful, don't let a shiny tool distract you.” -  Bryan Collins
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
