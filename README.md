@@ -1,4 +1,4 @@
-# Type
+# Type..
 
 ![alt text](https://github.com/JoshuaViado/Type./blob/master/Type-Screenshot.PNG)
 
