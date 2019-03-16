@@ -4,6 +4,8 @@
 
 “Remember, while today's writing software is useful and powerful, don't let a shiny tool distract you.” -  Bryan Collins
 
+"Type." takes all the word tools and brings it a step back and place what really matters front and centre, your words. The goal is to try recreate that personal, focused experience you get when you simply write from pen and paper.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
